@@ -1,6 +1,6 @@
 # image-calculator
 ```bash
-https://github.com/sokhonad/image-calculator.git
+git clone https://github.com/sokhonad/image-calculator.git
 cd image-calculator
 docker-compose up
 ```
