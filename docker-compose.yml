@@ -16,6 +16,6 @@ services:
     image: diakarou/calculator-mysql:v1.0
     environment:
       MYSQL_ROOT_PASSWORD: "sokh"
-      MYSQL_DATABASE: "calculator_db"
+      MYSQL_DATABASE: "calculator_bd"
     ports:
       - "3306:3306"
